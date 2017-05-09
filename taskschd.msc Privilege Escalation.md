@@ -81,7 +81,7 @@ Add user EXPLOITED
 
 Tips:
 
-- requires administrator permission to import Task
+- require administrator permission to import Task
 
 
 
