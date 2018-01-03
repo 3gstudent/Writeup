@@ -1,4 +1,4 @@
-function local:Get-DelegateType {
+function Get-DelegateType {
   Param (
     [OutputType([Type])]
   [Parameter( Position = 0)]
@@ -20,7 +20,7 @@ function local:Get-DelegateType {
 
     $TypeBuilder.CreateType()
 }
-function local:Get-ProcAddress {
+function Get-ProcAddress {
   Param (
     [OutputType([IntPtr])]
   [Parameter( Position = 0, Mandatory = $True )]
