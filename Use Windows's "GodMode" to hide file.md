@@ -22,7 +22,7 @@ copy mimikatz.exe .\TEST~1.{1D\newmimikatz.exe
 dir c:\ /s /b | find "newmimikatz.exe"
 ```
 
-![Alt text](https://raw.githubusercontent.com/3gstudent/Writeup/master/pic/Use%20Windows-s%20-GodMode-%20to%20hide%20file/1-1.png)
+![Alt text](https://raw.githubusercontent.com/3gstudent/Writeup/master/pic/Use%20Windows-s%20-GodMode-%20to%20hide%20file/1-2.png)
 
 The path is `c:\test\test.{1D2680C9-0E2A-469d-B787-065558BC7D43}\newmimikatz.exe`
 
