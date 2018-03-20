@@ -10,6 +10,7 @@ Steal from https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-Exp
 Author: Ruben Boonen (@FuzzySec)
 ----
 Add a function to find out whether all the DLL under %windir%/system32 contains the export function OpenURL
+Modified By 3gstudent
 #>
 	param (
         [Parameter(Mandatory = $True)]
